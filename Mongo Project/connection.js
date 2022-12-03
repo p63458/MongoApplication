@@ -20,4 +20,5 @@ app.use('/student',StudentRouter)
 app.listen(9000, () => {
     console.log('Server started')
 }) 
-//mongodb.com/try/download/community2
+//mongodb.com/try/download/community2  ---mongo db official download
+//nosqlbooster UI for the sql db
